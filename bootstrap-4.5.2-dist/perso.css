@@ -1,0 +1,189 @@
+@font-face {
+	font-family: GOT;
+	src:url(game.ttf);
+	font-style: normal;
+	font-weight: bold;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    display: block;
+    margin-right: auto;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    margin:5px;
+}
+
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+    font-size: 20px;
+}
+
+div.titre {
+	margin-right: auto;
+}
+
+h1.text-center{
+font-family:GOT;
+margin-right: 75px;
+font-size: 50px;
+font-weight: 100px;
+text-shadow: 2px 2px 5px red;
+}
+
+img.diapo {
+	height: 700px;
+	width: 100%;
+}
+
+.carousel-inner {
+    position: relative;
+    overflow: hidden;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border:2px solid white;
+}
+
+.carousel-control-prev {
+    left: 350px;
+}
+
+.carousel-control-next {
+    right: 350px;
+}
+
+p{
+    text-align: justify;
+    color: white;
+}
+
+p.carousel{
+    text-align: center;
+}
+
+img.emilia {
+    width: 100%;
+    height: 340px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-bottom: 5%;
+}
+
+
+div.col{
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom:1px solid black;
+}
+
+video.mp4{
+    width: 100%;
+    padding-top: 100px;
+}
+
+h4{
+    text-align: center;
+    color: white;
+}
+
+img.stark {
+    width: 100%;
+    height: auto;
+    padding-bottom:20px;
+}
+
+.bg-light {
+    background-color: white !important;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, .3);
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #c0392b;
+    border-color: black;
+    margin: 5px;
+}
+
+.btn-primary:hover, .btn-primary:focus{
+    background-color: #e74c3c;
+    border-color: black;
+}
+
+.nav-link:hover{
+    border-bottom: 2px solid black;
+    padding-bottom: 5px;
+}
+
+.row{
+    background-color: #38393A;
+    padding-left: 5%;
+    padding-right: 5%;
+    border: 2px solid white;
+    margin-top: 50px;
+
+}
+
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+    background-color: #38393A;
+}
+
+body{
+    background-color: #171818;
+}
+
+img.toto {
+    width: 100px;
+    height:100px;
+    margin-left: 0px;
+}
+
+div.numero1 {
+    width: 100%;
+}
+
+#tata {
+    width: 100%;
+    height: 350px;
+}
+img.bla {
+    width: 100%;
+    height:350px;
+}
+
+img.fanart {
+    height: auto;
+    width: 100%;
+}
+
+div.introduction{
+    background-image:url(https://wallpapercart.com/wp-content/uploads/2020/03/TV-Show-Game-Of-Thrones-Cersei-Lannister-HD-Wallpaper-Background-Image-4.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 160px;
+}
+
+p.introduction{
+    font-size: 30px;
+    border:2px solid white;
+    text-align: center;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
